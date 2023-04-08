@@ -5,7 +5,7 @@
 
 print("hello, world, Veni")
 
-number = 15
+number = 25
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
